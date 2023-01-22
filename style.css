@@ -1,0 +1,18 @@
+body { 
+    background-color: black;
+}
+.content {
+    position: relative;
+}
+img {
+    width: 100%;
+    height: 100%
+}
+.text {
+    position: absolute;
+    bottom: 20px;
+    right: 20px;
+    color: silver;
+    padding-left: 2px;
+    padding-right: 2px;
+}
